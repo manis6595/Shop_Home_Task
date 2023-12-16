@@ -5,7 +5,7 @@ import Navpar from './Components/Navpar'
 import Card from './Components/Card'
 import Poori from "./img/Poori3.jpg"
 import Dhosa from "./img/Dhosa1.jpg"
-import Pongal from "./img/pongal2.jpg"
+import Pongal from "./img/Pongal2.jpg"
 
 function App() {
  
