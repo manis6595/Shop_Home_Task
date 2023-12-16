@@ -5,7 +5,7 @@ import Navpar from './Components/Navpar'
 import Card from './Components/Card'
 import Poori from "./img/Poori3.jpg"
 import Dhosa from "./img/Dhosa1.jpg"
-import pongal from "./img/pongal2.jpg"
+import Pongal from "./img/pongal2.jpg"
 
 function App() {
  
@@ -19,7 +19,7 @@ function App() {
     {
       name:"Pongal",
       price:3,
-      img:pongal,
+      img:Pongal,
     },
     {
       name:"Dhosa",
